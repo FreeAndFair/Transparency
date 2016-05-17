@@ -1,2 +1,2 @@
 # Proposals
-Proposals Free &amp; Fair has submitted in response to RFPs, RFIs, and other opportunities.
+This repository contains archived proposals that Free & Fair has submitted to governments, funding agencies, and other organizations in response to RFI, RFP, and other solicitations.
